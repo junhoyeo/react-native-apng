@@ -1,5 +1,5 @@
 # 🍿 react-native-apng
-This module, forked originally from the deprecated [react-native-apng-player](https://www.npmjs.com/package/react-native-apng-player)(by @strowbeary)on NPM, allows to animate and control APNG images on React Native.
+This module, forked originally from the deprecated [react-native-apng-player](https://www.npmjs.com/package/react-native-apng-player) on NPM, allows to animate and control APNG images on React Native.
 
 ## Getting started
 
